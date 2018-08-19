@@ -1,0 +1,4 @@
+This is the first file in this git repo.
+Feel free to add more to this file or create new ones! 
+
+Don't forget to branch before you start making changes. 
